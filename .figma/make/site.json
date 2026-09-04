@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines kitchen equipment repair by managing companies, technicians, tasks, and clients with intuitive roles for efficient service coordination.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
